@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    margin: 2rem;
+}
+
+td a {
+    text-decoration: none !important;
+    font-weight: bold;
+}
+
+.tableStuff {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+input {
+    display: block;
+}
